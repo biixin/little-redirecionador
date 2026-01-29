@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { MapPin, Clock } from 'lucide-react';
 import DisableDevtool from 'disable-devtool';
-import { NUMEROS } from './numeros';
+import { NUMEROS } from '../numeros';
 import { SETTINGS } from './settings';
 
 function App() {
